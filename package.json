@@ -1,7 +1,7 @@
 {
-  "name": "harmonie-evm-starter",
+  "name": "harmonie-starter",
   "version": "1.0.0",
-  "description": "A basic EVM example project with an event and call handler. Read more about this at https://academy.subquery.network/build/substrate-evm.html. This project can be use as a starting point for developing your SubQuery project",
+  "description": "A basic example project with an event handler to index Balances transfer. Read more about this at https://academy.subquery.network/build/substrate-evm.html. This project can be use as a starting point for developing your SubQuery project",
   "main": "dist/index.js",
   "scripts": {
     "build": "subql build",
